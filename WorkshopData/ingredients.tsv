@@ -1,0 +1,135 @@
+id	style	ingredient	grams
+1	Anchovies	Flour	100
+2	Anchovies	Yeast	1
+3	Anchovies	Salt	1
+4	Anchovies	Mozzarella	125
+5	Anchovies	Provolone	100
+6	Anchovies	Tomato Sauce	100
+7	Anchovies	Tomato Paste	50
+8	Anchovies	Onions	50
+9	Anchovies	Garlic	1
+10	Anchovies	Oregano	1
+11	Anchovies	Basil	1
+12	Bacon	Flour	100
+13	Bacon	Yeast	1
+14	Bacon	Salt	1
+15	Bacon	Mozzarella	125
+16	Bacon	Provolone	100
+17	Bacon	Tomato Sauce	100
+18	Bacon	Tomato Paste	50
+19	Bacon	Onions	50
+20	Bacon	Garlic	1
+21	Bacon	Oregano	1
+22	Bacon	Basil	1
+23	Basil	Flour	100
+24	Basil	Yeast	1
+25	Basil	Salt	1
+26	Basil	Mozzarella	125
+27	Basil	Provolone	100
+28	Basil	Tomato Sauce	100
+29	Basil	Tomato Paste	50
+30	Basil	Onions	50
+31	Basil	Garlic	1
+32	Basil	Oregano	1
+33	Basil	Basil	1
+34	Cheese	Flour	100
+35	Cheese	Yeast	1
+36	Cheese	Salt	1
+37	Cheese	Mozzarella	125
+38	Cheese	Provolone	100
+39	Cheese	Tomato Sauce	100
+40	Cheese	Tomato Paste	50
+41	Cheese	Onions	50
+42	Cheese	Garlic	1
+43	Cheese	Oregano	1
+44	Cheese	Basil	1
+45	ChickenRanch	Flour	100
+46	ChickenRanch	Yeast	1
+47	ChickenRanch	Salt	1
+48	ChickenRanch	Mozzarella	125
+49	ChickenRanch	Provolone	100
+50	ChickenRanch	Tomato Sauce	100
+51	ChickenRanch	Tomato Paste	50
+52	ChickenRanch	Onions	50
+53	ChickenRanch	Garlic	1
+54	ChickenRanch	Oregano	1
+55	ChickenRanch	Basil	1
+56	Mushrooms	Flour	100
+57	Mushrooms	Yeast	1
+58	Mushrooms	Salt	1
+59	Mushrooms	Mozzarella	125
+60	Mushrooms	Provolone	100
+61	Mushrooms	Tomato Sauce	100
+62	Mushrooms	Tomato Paste	50
+63	Mushrooms	Onions	50
+64	Mushrooms	Garlic	1
+65	Mushrooms	Oregano	1
+66	Mushrooms	Basil	1
+67	Olives	Flour	100
+68	Olives	Yeast	1
+69	Olives	Salt	1
+70	Olives	Mozzarella	125
+71	Olives	Provolone	100
+72	Olives	Tomato Sauce	100
+73	Olives	Tomato Paste	50
+74	Olives	Onions	50
+75	Olives	Garlic	1
+76	Olives	Oregano	1
+77	Olives	Basil	1
+78	Onions	Flour	100
+79	Onions	Yeast	1
+80	Onions	Salt	1
+81	Onions	Mozzarella	125
+82	Onions	Provolone	100
+83	Onions	Tomato Sauce	100
+84	Onions	Tomato Paste	50
+85	Onions	Onions	50
+86	Onions	Garlic	1
+87	Onions	Oregano	1
+88	Onions	Basil	1
+89	Pineapple	Flour	100
+90	Pineapple	Yeast	1
+91	Pineapple	Salt	1
+92	Pineapple	Mozzarella	125
+93	Pineapple	Provolone	100
+94	Pineapple	Tomato Sauce	100
+95	Pineapple	Tomato Paste	50
+96	Pineapple	Onions	50
+97	Pineapple	Garlic	1
+98	Pineapple	Oregano	1
+99	Pineapple	Basil	1
+100	Sausage	Flour	100
+101	Sausage	Yeast	1
+102	Sausage	Salt	1
+103	Sausage	Mozzarella	125
+104	Sausage	Provolone	100
+105	Sausage	Tomato Sauce	100
+106	Sausage	Tomato Paste	50
+107	Sausage	Onions	50
+108	Sausage	Garlic	1
+109	Sausage	Oregano	1
+110	Sausage	Basil	1
+111	Tomato	Flour	100
+112	Tomato	Yeast	1
+113	Tomato	Salt	1
+114	Tomato	Mozzarella	125
+115	Tomato	Provolone	100
+116	Tomato	Tomato Sauce	100
+117	Tomato	Tomato Paste	50
+118	Tomato	Onions	50
+119	Tomato	Garlic	1
+120	Tomato	Oregano	1
+121	Tomato	Basil	1
+122	Anchovies	Anchovies	125
+123	Bacon	Bacon	125
+124	Basil	Basil	50
+125	Cheese	Mozzarella	125
+126	Cheese	Provolone	100
+127	ChickenRanch	Chicken	125
+128	ChickenRanch	RanchSauce	125
+129	Mushrooms	Mushrooms	125
+130	Olives	Olives	125
+131	Onions	Onions	125
+132	Pineapple	Pineapple	125
+133	Sausage	Sausage	125
+134	Tomato	Fresh Tomato	125
