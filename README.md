@@ -65,9 +65,6 @@ Repeat for stats data. This is in lines format.
 cbimport json -c https://<CONNECTION_STRING> -u demouser -p Password123! -b pizzastore -d file://stats.json -f lines -g %game_id%_%play_id% --scope-collection-exp orderapp.stats -t 4 --cacert /path/to/pizzastore-root-certificate.pem
 ```
 
-(((I don't know what this sentence is talking about))):
-You will need to run an eventing function on this.
-
 ### Ingredients data
 
 Import ingredients data from a TSV file using `cbimport csv`. Also note the `-infer-types` flag: cbimport will look at each value and decide whether it is a string, integer, or boolean value and put the inferred type into the document.
