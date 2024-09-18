@@ -78,5 +78,5 @@ cbimport csv -c https://<CONNECTION_STRING> -u demouser -p Password123! -b pizza
 Finally, import stores data using `cbimport json`.
 
 ```
-cbimport json -c https://<CONNECTION_STRING> -u demouser -p Password123! -b pizzastore -d file://stores.json> -f list -g %storeId% --scope-collection-exp orderapp.stores -t 4 --cacert /path/to/pizzastore-root-certificate.pem
+cbimport json -c https://<CONNECTION_STRING> -u demouser -p Password123! -b pizzastore -d file://stores.json -f list -g %storeId% --scope-collection-exp orderapp.stores -t 4 --cacert /path/to/pizzastore-root-certificate.pem
 ```
